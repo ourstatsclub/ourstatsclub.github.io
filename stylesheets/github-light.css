@@ -7,6 +7,13 @@
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 
+.masthead{
+  padding: 1em;
+  background: #000531 url("../images/Blog-Header-R-Programming-1900x600.jpg") no-repeat center center;
+  background-size: cover;
+  color: #fff;
+}
+    
 
 .pl-c /* comment, punctuation.definition.comment, string.comment */ {
   color: #6a737d;
