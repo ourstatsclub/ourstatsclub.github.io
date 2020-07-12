@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Introduction to R](README.md)
+* [R Programming](README.md)
 
