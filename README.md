@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Introduction to R
 
-You can use the [editor on GitHub](https://github.com/ourstatsclub/ourstatsclub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
+This repository has teaching materials for a hands-on **Introduction to R**. Here we are covering the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. 
 
-### Markdown
+These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Learning Objectives
 
-# Header 1
-## Header 2
-### Header 3
+1. **R syntax**: Understand the different 'parts of speech'.
+2. **Data types structures in R**: Describe the various data types and data structures.
+3. **Data inspection and wrangling**: Demonstrate the utilization of functions and indices to inspect and subset data from various data structures.
+4. **Visualizing data**: Demonstrate the use of the ggplot2 package to create plots for easy data visualization.
 
-- Bulleted
-- List
+### Lessons
+**[Click here](https://github.com/ourstatsclub/R_intro/blob/master/schedules/1.5-day.html) for links to lessons**
 
-1. Numbered
-2. List
+Go to [R](https://cran.r-project.org/)
 
-**Bold** and _Italic_ and `Code` text
+### Installation Requirements
 
-[Link](url) and ![Image](src)
-```
+Download the most recent versions of R and RStudio for the appropriate OS using the links below:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ - [R](https://cran.r-project.org/) 
+ - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-### Jekyll Themes
+### Dataset
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ourstatsclub/ourstatsclub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+All the files used for the above lessons are linked within, but can also be [accessed here](https://github.com/ourstatsclub/R_intro/tree/master/data).
 
-### Support or Contact
+---
+*These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* *Some materials used in these lessons were derived from work that is Copyright © Data Carpentry (http://datacarpentry.org/). 
+All Data Carpentry instructional material is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).*
