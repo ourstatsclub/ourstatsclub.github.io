@@ -1,6 +1,6 @@
 # What is R and Why
 
-## 2 Why R?
+## What is R and Why it's important?
 
 If you are new to R and programming, you may be intimidated by the idea of writing code. You probably aren’t used to having to type commands to tell the computer what to do. You may be more comfortable using drop-down menus and other graphical user interfaces that allow you to pick what you’d like to do. So, why are so many companies, colleges, universities, and individuals of all disciplinary backgrounds shifting towards using R?
 
