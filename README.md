@@ -1,11 +1,10 @@
 ---
 description: >-
-  R is a programming language and free software environment for statistical
-  computing and graphics supported by the R Foundation for Statistical
-  Computing. The R language is widely used among statistics
+  We are a community of people (most of us being Statisticians from Kerala)
+  gathered under the name 'Our Stats Club'.
 ---
 
-# R Programming
+# Introduction to R
 
 ## Introduction to R
 
@@ -13,11 +12,11 @@ description: >-
 
 ### Introduction
 
-This book was written to give students and statistical enthusiastic who are new to [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [R Markdown](http://rmarkdown.rstudio.com/) the tools they need to begin making their statistical analysis skills. R is an open-source programming language that has seen its popularity grow tremendously in recent years, with developers adding new functionality via packages on a daily basis. RStudio is a graphical development environment that makes it easier to write and view the results of R code, and R Markdown provides an easy way to produce rich, fully-documented, statistical/reproducible analyses.
+This book was written to give students and statistical enthusiastics who are new to [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [R Markdown](http://rmarkdown.rstudio.com/) the tools they need to begin making their statistical analysis skills. R is an open-source programming language that has seen its popularity grow tremendously in recent years, with developers adding new functionality via packages on a daily basis. RStudio is a graphical development environment that makes it easier to write and view the results of R code, and R Markdown provides an easy way to produce rich, fully-documented, statistical/reproducible analyses.
 
 This book will evolve and be updated as needed based on reader feedback. You can see when the book was last updated below.
 
-We strongly recommend you to use R version 3.6.0 or higher, RStudio Desktop version 1.3 or higher, and `rmarkdown` R package version 2.3 or higher. This will ensure that your setup matches with the description in this book, making it easier to follow along.
+We strongly recommend you to use R version 3.6.0 or higher, RStudio Desktop version 1.3 or higher, and `rmarkdown` R package version 2.3 or higher. This will ensure that your setup matches twith the description in this book, making it easier to follow along.
 
 #### What we are Learning Here:
 

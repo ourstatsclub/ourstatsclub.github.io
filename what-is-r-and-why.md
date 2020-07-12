@@ -1,0 +1,41 @@
+# What is R and Why
+
+## 2 Why R?
+
+If you are new to R and programming, you may be intimidated by the idea of writing code. You probably aren’t used to having to type commands to tell the computer what to do. You may be more comfortable using drop-down menus and other graphical user interfaces that allow you to pick what you’d like to do. So, why are so many companies, colleges, universities, and individuals of all disciplinary backgrounds shifting towards using R?
+
+There are many answers to this question, but some of the most important are:
+
+1. R and RStudio are free.
+
+   One of the biggest perks of working with R and RStudio is that both are available free of charge. Whereas other, proprietary statistics packages are often stuck in the dark ages of development \(the 1990s, for example\), and can be incredibly expensive to purchase, R is a free alternative that allows users of all experience levels to contribute to its development.
+
+2. Analyses done using R are reproducible.
+
+   As many scientific fields embrace the idea of reproducible analyses, proprietary point-and-click systems actually serve as a hindrance to this process. If you need to re-run your analysis using one of these systems, you’ll need to carefully copy-and-paste your results into your text editor, potentially from beginning to end. As anyone who has done this sort of copy-and-pasting knows, this approach is both prone to errors and incredibly tedious.
+
+   If, on the other hand, you use the workflows described in this book, your analyses will be reproducible, thus eliminating the copy-and-paste dance. And, as you can probably guess, it is much better to be able to update your code and data inputs and then re-run all of your analysis with the push of a button than to have to worry about manually moving your results from one program to another. Reproducibility also helps you as a programmer, since your most frequent collaborator is likely to be yourself a few months or years down the road. Instead of having to carefully write down all the steps you took to find the correct drop-down menu option, your entire code is stored, and immediately reusable.
+
+3. Using R makes collaboration easier.
+
+   This approach also helps with collaboration since, as you will see later, you can share a single R Markdown file containing all of your analysis, documentation, comments, and code with others. This reduces the time needed to work with others and reduces the likelihood of errors being made in following along with point-and-click analyses. The mantra here is to **Say No to Copy-And-Paste!** both for your sanity and for the sake of science.
+
+4. Finding answers to questions is much simpler.
+
+   If you have ever had an issue with software, you know how difficult it can be to find answers to your questions. “How can I describe the process to someone else? Do I need to take screenshots? Do I really need to call IT and wait for hours for someone to respond?” Because R is a programming language, it is much easier \(after a bit of practice\) to use Google or Stack Overflow to find answers to your questions. You’ll be amazed at how many other users have encountered the same sorts of errors you will see when you begin.
+
+   I frequently \(almost daily\) Google things like “How do I make a side-by-side boxplot in R coloring by a third variable?”. You’ll become better at working with R by reaching out to others for help and by answering questions that others have. In addition, Chapter [6](https://ismayc.github.io/rbasics-book/6-errors.html#errors) describes many common errors and explains how to fix them.
+
+5. Struggling through programming helps you learn.
+
+   We all know that learning isn’t easy. Do you have trouble remembering how to follow a list of more than 10 steps or so? Do you find yourself going back over and over again because you can’t remember what step comes next in the process? This is extremely common, especially if you haven’t done the procedure in awhile. Learning by following a procedure is easy in the short-term, but can be extremely frustrating to remember in the long-term. If done well, programming promotes long-term thinking to short-term fixes.
+
+   One unfortunate thing that we frequently take for granted is that our brain tricks us into picking the easy route. If you truly want to learn how to do something \(like programming with R\), you’ll need to feel frustrated at times. Any time you learn something new, you’ve been frustrated. We tend to forget all the frustration and only think about where we currently are. Although R still frustrates me from time to time, I grow through practice and I look forward to the challenges. Garrett Grolemund encapsulated this phenomenon nicely in the Prologue of his book “Hands-On Programming with R” \(Grolemund [2014](https://ismayc.github.io/rbasics-book/2-whyR.html#ref-handson2014)\):
+
+   > As you learn to program, you are going to get frustrated. You are learning a new language, and it will take time to become fluent. But frustration is not just natural, it’s actually a positive sign that you should watch for. Frustration is your brain’s way of being lazy; it’s trying to get you to quit and go do something easy or fun. If you want to get physically fitter, you need to push your body even though it complains. If you want to get better at programming, you’ll need to push your brain. Recognize when you get frustrated and see it as a good thing: you’re now stretching yourself. Push yourself a little further every day, and you’ll soon be a confident programmer.
+
+#### References
+
+Grolemund, Garrett. 2014. _Hands-on Programming with R_. O’Reilly.  
+
+
