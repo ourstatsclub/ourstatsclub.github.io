@@ -1,31 +1,30 @@
+---
+description: >-
+  We are a community of people (most of us being Statisticians from Kerala)
+  gathered under the name 'Our Stats Club'.
+---
+
+# Introduction to R
+
 ## Introduction to R
 
+## Let's Getting Used to R, RStudio, and R Markdown
 
-### Description
-This repository has teaching materials for a hands-on **Introduction to R**. Here we are covering the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. 
+### Introduction
 
-These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis. 
+This book was written to give students and statistical enthusiastics who are new to [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [R Markdown](http://rmarkdown.rstudio.com/) the tools they need to begin making their statistical analysis skills. R is an open-source programming language that has seen its popularity grow tremendously in recent years, with developers adding new functionality via packages on a daily basis. RStudio is a graphical development environment that makes it easier to write and view the results of R code, and R Markdown provides an easy way to produce rich, fully-documented, statistical/reproducible analyses.
+
+This book will evolve and be updated as needed based on reader feedback. You can see when the book was last updated below.
+
+We strongly recommend you to use R version 3.6.0 or higher, RStudio Desktop version 1.3 or higher, and `rmarkdown` R package version 2.3 or higher. This will ensure that your setup matches twith the description in this book, making it easier to follow along.
+
+#### What we are Learning Here:
+
+1. What is R and Why?
+2. Basics of R and R studio
+3. R Markdown
+
+This book was last updated by Our Stats Club on Sunday, July 12, 2020.
 
 
-### Learning Objectives
-
-1. **R syntax**: Understand the different 'parts of speech'.
-2. **Data types structures in R**: Describe the various data types and data structures.
-3. **Data inspection and wrangling**: Demonstrate the utilization of functions and indices to inspect and subset data from various data structures.
-4. **Visualizing data**: Demonstrate the use of the ggplot2 package to create plots for easy data visualization.
-
-### Lessons
-**[Click here](https://github.com/ourstatsclub/R_intro/blob/master/schedules/1.5-day.html) for links to lessons**
-
-
-### Installation Requirements
-
-Download the most recent versions of R and RStudio for the appropriate OS using the links below:
-
- - [R](https://cran.r-project.org/) 
- - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-
-### Dataset
-
-All the files used for the above lessons are linked within, but can also be [accessed here](https://github.com/ourstatsclub/R_intro/tree/master/data).
 
