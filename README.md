@@ -17,7 +17,6 @@ These materials are intended to provide both basic R programming knowledge and i
 ### Lessons
 **[Click here](https://github.com/ourstatsclub/R_intro/blob/master/schedules/1.5-day.html) for links to lessons**
 
-Go to [R](https://cran.r-project.org/)
 
 ### Installation Requirements
 
@@ -30,8 +29,3 @@ Download the most recent versions of R and RStudio for the appropriate OS using 
 
 All the files used for the above lessons are linked within, but can also be [accessed here](https://github.com/ourstatsclub/R_intro/tree/master/data).
 
----
-*These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
-
-* *Some materials used in these lessons were derived from work that is Copyright © Data Carpentry (http://datacarpentry.org/). 
-All Data Carpentry instructional material is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).*
