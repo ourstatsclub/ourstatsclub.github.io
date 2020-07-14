@@ -8,11 +8,11 @@
 
   
   
-**R is a language and software environment which was made by Robert Gentleman and Ross Ihaka from the University of Auckland in New Zealand. It is used in various fields such as for analysis of statistical information,  graphical representation and reporting. It is being further developed by the R Development Core Team. R is free under the GNU General Public License and its precompiled binary code is available for download. It also supports many operating systems like Windows, Linux, and macOS.**
+**R is a language and software environment that was made by Robert Gentleman and Ross Ihaka from the University of Auckland in New Zealand. It is used in various fields such as for analysis of statistical information,  graphical representation, and reporting. It is being further developed by the R Development Core Team. R is free under the GNU General Public License and its pre-compiled binary code is available for download. It also supports many operating systems like Windows, Linux, and macOS.**
 
 **The name of this programming language originates from the initials of the first name of both its creators, which is R. Also, its name can be considered as a play on the name of the S language, which was created by the Bell Laboratories.**
 
-**R was made in the 1990s when programming languages like Redmonk, Tlobe and PyPL were popular. It is an alternate implementation of the S language, as already stated. R is an important tool for machine learning and statistics, along with numerical analysis.**
+**R was made in the 1990s when programming languages like Redmonk, Tlobe, and PyPL were popular. It is an alternate implementation of the S language, as already stated. R is an important tool for machine learning and statistics, along with numerical analysis.**
 
   
 
