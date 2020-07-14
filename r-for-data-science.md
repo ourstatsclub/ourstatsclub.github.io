@@ -1,3 +1,7 @@
+---
+description: By Hari V.G.
+---
+
 # R for Data Science
 
 ## **R features for data science applications:**
@@ -11,15 +15,15 @@ R is a vector language. Unlike other languages, R can do many things at once. Yo
 
 ### **You can run your code without any compiler**
 
-As R is an interpreted language, you can run your code without any compilers. In other programming languages like Java or C, a compiler is required to make out the instructions from your code before running it. However, R directly interprets the code into a full-fledged program. This makes development of the code easier.
+As R is an interpreted language, you can run your code without any compilers. In other programming languages like Java or C, a compiler is required to make out the instructions from your code before running it. However, R directly interprets the code into a full-fledged program. This makes the development of the code easier.
 
 ### **Statistical language**
 
-R was designed for statistical studies, and proved excellent in its field of work. However, as the power of R is being realised, it is finding use in a variety of other places, starting from financial studies to genetics and biology and medicine. This is because R is a Turing-complete language, which means that any task can be programmed in R.
+R was designed for statistical studies and proved excellent in its field of work. However, as the power of R is being realized, it is finding use in a variety of other places, starting from financial studies to genetics and biology and medicine. This is because R is a Turing-complete language, which means that any task can be programmed in R.
 
 ### Data science support
 
-R provides support functions for data science applications. Some of them are charts, graphs, data interface, statistical functions, etc. All these functions are specifically used for data science applications and statistical analysis.
+R provides support functions for data science applications. Some of them are charts, graphs, data interfaces, statistical functions, etc. All these functions are specifically used for data science applications and statistical analysis.
 
 ## **Why is R important for data science professionals?**
 
