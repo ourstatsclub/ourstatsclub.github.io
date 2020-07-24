@@ -7,4 +7,5 @@
 * [R Arithmetic Operators](r-arithmetic-operators.md)
 * [R Relational Operators](untitled.md)
 * [Logical Operators](untitled-1.md)
+* [Data entry in R](data-entry-in-r.md)
 
