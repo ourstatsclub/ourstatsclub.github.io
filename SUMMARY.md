@@ -6,4 +6,5 @@
 * [R for Data Science](r-for-data-science.md)
 * [R Arithmetic Operators](r-arithmetic-operators.md)
 * [R Relational Operators](untitled.md)
+* [Logical Operators](untitled-1.md)
 
