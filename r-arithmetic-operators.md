@@ -6,57 +6,48 @@ description: >-
 
 # R Arithmetic Operators
 
-
-
-```text
-# **R Arithmetic Operators**
-
-These operators are used to carry out mathematical operations like addition and multiplication. Here is a list of arithmetic operators available in R.
-
-| Arithmetic Operators in R |
-| --- |
+| Arithmetic Operators in R |  |
+| :--- | :--- |
 | Operator | Description |
 | + | Addition |
 | – | Subtraction |
 | \* | Multiplication |
 | / | Division |
 | ^ | Exponent |
-| %% | Modulus (Remainder from division) |
+| %% | Modulus \(Remainder from division\) |
 | %/% | Integer Division |
 
+Some examples are: 
 
-An example runs
+x = 5
 
-\&gt; x = 5
+y = 16
 
-\&gt; y = 16
+x+y
 
-\&gt; x+y
+\[1\] 21
 
-[1] 21
+x-y
 
-\&gt; x-y
+\[1\] -11
 
-[1] -11
+x\*y
 
-\&gt; x\*y
+\[1\] 80
 
-[1] 80
+y/x
 
-\&gt; y/x
+\[1\] 3.2
 
-[1] 3.2
+y%/%x
 
-\&gt; y%/%x
+\[1\] 3
 
-[1] 3
+y%%x
 
-\&gt; y%%x
+\[1\] 1
 
-[1] 1
+y^x
 
-\&gt; y^x
-
-[1] 1048576
-```
+\[1\] 1048576
 
