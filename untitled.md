@@ -18,31 +18,31 @@ description: >-
 
 Some examples are:
 
-x = 5
+`x = 5`
 
-y = 16
+`y = 16`
 
-x\&lt;y
+`x\<y`
 
-\[1\] TRUE
+`[1] TRUE`
 
-x\&gt;y
+`x\>y`
 
-\[1\] FALSE
+`[1] FALSE`
 
-x\&lt;=5
+`x\<=5`
 
-\[1\] TRUE
+`[1] TRUE`
 
-y\&gt;=20
+`y\>=20`
 
-\[1\] FALSE
+`[1] FALSE`
 
-y == 16
+`y == 16`
 
-\[1\] TRUE
+`[1] TRUE`
 
-x != 5
+`x != 5`
 
-\[1\] FALSE
+`[1] FALSE`
 
